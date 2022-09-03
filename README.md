@@ -1,2 +1,2 @@
 # Sifreleme-Cesitleri
-Şifreleme çeşitleri hakkında bilgilendirici bir blog yazısı yazdım.
+Şifreleme çeşitleri hakkında Türkçe olarak bilgilendirici bir blog yazısı yazdım.
